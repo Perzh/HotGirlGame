@@ -1,4 +1,9 @@
-#Sun May 06 02:04:37 MSK 2012
+#Sun May 06 18:44:52 MSK 2012
 eclipse.preferences.version=1
+encoding/game_map.py=utf-8
 encoding/game_object.py=utf-8
+encoding/main.py=utf-8
+encoding/reader.py=utf-8
+encoding/replay_player.py=utf-8
+encoding/settings.py=utf-8
 encoding/sprites.py=utf-8
